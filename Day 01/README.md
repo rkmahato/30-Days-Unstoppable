@@ -10,6 +10,7 @@
 | Subject | Topics |
 |---------|--------|
 | **DSA (Java)** | Number Problems — Loops, Factors, Primes, GCD, LCM, Digit Operations |
+| **Advanced Java** | JDBC — All CRUD Operations (Insert, Select, Update, Delete) |
 
 ---
 
@@ -44,7 +45,30 @@ Solved **22 problems** today using Java covering core number logic with loops an
 
 ---
 
-## 💡 Key Concepts Practised
+## ☕ Advanced Java — JDBC Operations
+
+Practised **JDBC (Java Database Connectivity)** — connecting Java with a database and performing all CRUD operations.
+
+| Operation | Description |
+|-----------|-------------|
+| **Connect** | Established DB connection using `DriverManager` |
+| **Insert** | Added records using `PreparedStatement` |
+| **Select** | Fetched data using `ResultSet` |
+| **Update** | Modified existing records |
+| **Delete** | Removed records from the table |
+
+### 🔑 Key Concepts Practised (Advanced Java)
+
+- `Class.forName()` for driver loading
+- `DriverManager.getConnection()` for DB connection
+- `PreparedStatement` vs `Statement`
+- `ResultSet` iteration
+- Exception handling with `SQLException`
+- Closing connections properly
+
+---
+
+## 💡 Key Concepts Practised (DSA)
 
 - `for` loops and `while` loops
 - Prime number logic
@@ -53,6 +77,21 @@ Solved **22 problems** today using Java covering core number logic with loops an
 - LCM using GCD
 - Digit extraction using `%` and `/`
 - `Scanner` for user input
+
+---
+
+## 📁 Folder Structure
+
+```
+Day 01/
+├── Code/
+│   ├── DSA/                  → 22 Number Problem Java files
+│   └── Advanced Java/        → JDBCAllOperations.java
+├── Notes/
+│   ├── DSA_Notes.pdf
+│   └── Advance Java.pdf
+└── README.md
+```
 
 ---
 
