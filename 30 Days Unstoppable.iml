@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day 01/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 01/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 02/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 02/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 03/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 03/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 04/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 04/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 05/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 05/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 06/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 06/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 07/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 07/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 08/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 08/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 09/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 09/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 10/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 10/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 11/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 11/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 12/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 12/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 13/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 13/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 14/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 14/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 15/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 15/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 16/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 16/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 17/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 17/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 18/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 18/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 19/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 19/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 20/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 20/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 21/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 21/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 22/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 22/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 23/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 23/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 24/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 24/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 25/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 25/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 26/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 26/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 27/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 27/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 28/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 28/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 29/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 29/Code/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 30/Code/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 30/Code/Java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,378 @@
+﻿{
+    "folders":  [
+                    {
+                        "name":  "Day 01 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 01\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 01 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 01\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 01 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 01\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 02 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 02\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 02 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 02\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 02 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 02\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 03 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 03\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 03 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 03\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 03 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 03\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 04 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 04\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 04 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 04\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 04 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 04\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 05 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 05\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 05 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 05\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 05 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 05\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 06 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 06\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 06 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 06\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 06 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 06\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 07 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 07\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 07 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 07\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 07 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 07\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 08 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 08\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 08 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 08\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 08 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 08\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 09 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 09\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 09 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 09\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 09 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 09\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 10 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 10\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 10 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 10\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 10 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 10\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 11 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 11\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 11 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 11\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 11 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 11\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 12 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 12\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 12 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 12\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 12 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 12\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 13 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 13\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 13 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 13\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 13 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 13\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 14 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 14\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 14 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 14\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 14 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 14\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 15 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 15\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 15 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 15\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 15 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 15\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 16 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 16\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 16 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 16\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 16 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 16\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 17 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 17\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 17 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 17\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 17 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 17\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 18 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 18\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 18 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 18\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 18 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 18\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 19 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 19\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 19 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 19\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 19 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 19\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 20 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 20\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 20 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 20\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 20 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 20\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 21 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 21\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 21 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 21\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 21 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 21\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 22 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 22\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 22 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 22\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 22 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 22\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 23 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 23\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 23 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 23\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 23 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 23\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 24 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 24\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 24 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 24\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 24 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 24\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 25 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 25\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 25 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 25\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 25 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 25\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 26 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 26\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 26 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 26\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 26 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 26\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 27 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 27\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 27 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 27\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 27 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 27\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 28 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 28\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 28 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 28\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 28 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 28\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 29 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 29\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 29 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 29\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 29 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 29\\Code\\JavaScript"
+                    },
+                    {
+                        "name":  "Day 30 - HTML",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 30\\Code\\HTML"
+                    },
+                    {
+                        "name":  "Day 30 - CSS",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 30\\Code\\CSS"
+                    },
+                    {
+                        "name":  "Day 30 - JavaScript",
+                        "path":  "C:\\Users\\ajay\\Desktop\\30 Days Unstoppable\\Day 30\\Code\\JavaScript"
+                    }
+                ],
+    "settings":  {
+                     "editor.tabSize":  2,
+                     "emmet.includeLanguages":  {
+                                                    "html":  "html"
+                                                },
+                     "editor.formatOnSave":  true,
+                     "files.associations":  {
+                                                "*.js":  "javascript",
+                                                "*.html":  "html",
+                                                "*.css":  "css"
+                                            },
+                     "editor.fontSize":  14,
+                     "liveServer.settings.donotShowInfoMsg":  true
+                 }
+}
