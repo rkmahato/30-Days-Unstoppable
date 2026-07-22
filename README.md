@@ -21,8 +21,8 @@ Starting a 30-day challenge focused on strengthening software development fundam
 
 | Day | Date | Topics Covered | Status |
 |-----|------|----------------|--------|
-| [Day 01](./Day%2001/README.md) | 21 July 2026 | DSA — Number Problems (22 Problems) | ✅ |
-| Day 02 | — | — | ⏳ |
+| [Day 01](./Day%2001/README.md) | 21 July 2026 | DSA — Number Problems (22 Problems) + Advanced Java (JDBC) | ✅ |
+| [Day 02](./Day%2002/README.md) | 22 July 2026 | DSA — Array Problems (14 Problems) | ✅ |
 | Day 03 | — | — | ⏳ |
 | Day 04 | — | — | ⏳ |
 | Day 05 | — | — | ⏳ |
