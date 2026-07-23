@@ -9,11 +9,11 @@
 
 | Subject | Topics |
 |---------|--------|
-| **DSA (Java)** | Array/String Problems — HashMap, Palindromes, Reverse String, Two Pointers |
+| **DSA (Java)** | Two Pointers and HashMap |
 
 ---
 
-## 🧠 DSA — Array/String Problems (Java)
+## 🧠 DSA — Two Pointers and HashMap (Java)
 
 Solved **7 problems** today using Java.
 
